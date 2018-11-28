@@ -1,4 +1,4 @@
-# GolangRestfulAPI
+# Golang Restful API
 Restful API example written in golang
 
 Start the RESTFul Api that runs at port 8000 of localhost executing the command line:
@@ -18,7 +18,7 @@ To perform requests to the Api you can make the following requests using postman
       
     - using Postman or some other utility that allows to specify the POST or DELETE verb
 	    
-      /people/{id} Methods POST
+      http://localhost:8000/people/1 Method POST
       
-      /people/{id} Methods DELETE
+      http://localhost:8000/people/2 Method DELETE
 
