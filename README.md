@@ -1,7 +1,7 @@
 # GolangRestfulAPI
 Restful API example written in golang
 
-Start the RESTFul Api that runs at port 8000 of localhost execute the command line:
+Start the RESTFul Api that runs at port 8000 of localhost executing the command line:
 
   go run absolute_path_project_folder\main.go
 
